@@ -4,6 +4,7 @@
 ## OS
 - [운영체제란?](Compouter%20Science/OS/운영체제.md)
 - [프로세스란?](Compouter%20Science/OS/프로세스.md)
+- [CPU 스케줄러](./Compouter%20Science/OS/CPU%20스케줄러.md)
 
 ## Network
 
