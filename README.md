@@ -9,3 +9,9 @@
 ## Network
 
 - [DNS](Compouter%20Science/Network/DNS.md)
+- [프로토콜 스택](./Compouter%20Science/Network/프로토콜%20스택.md)
+
+## Database
+
+- [트랜잭션,잠금](./Compouter%20Science/db/트랜잭션,잠금.md)
+- [InnoDB 스토리지 엔진 잠금](./Compouter%20Science/db/InnoDB%20스토리지%20엔진%20잠금.md)
