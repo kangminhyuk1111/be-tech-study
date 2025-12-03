@@ -23,5 +23,3 @@ Primary Key 혹은 Unique Index에 의한 변경 작업에서는 갭에 대해�
 넥스트 키 락은 레코드 락과 갭 락을 합쳐놓은 형태이다.  
 넥스트 키 락은 MySQL의 기본 격리 수준인 `REAPEATABLE READ` 수준에서 발생한다.  
 InnoDB 스토리지 엔진은 독특한 특성 덕분에 갭 락이나 넥스트 키 락을 사용하여 REPEATABLE READ 격리 수준에서도 팬텀 리드((Phantom Read))가 발생하지 않도록 방지한다.
-
-
